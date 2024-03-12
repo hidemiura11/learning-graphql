@@ -1,12 +1,13 @@
-https://qiita.com/kim_t0814/items/c6ef7e3c668007f920a6
+### Feature
+Apollo server
 
-
-Start
+### Commands
 ```
+npm i graphql apollo-server -D
 npm run dev
 ```
 
-Query
+### Query
 ```
 query getComicQuery {
   test {
@@ -15,3 +16,6 @@ query getComicQuery {
   }
 }
 ```
+
+### Ref
+https://qiita.com/kim_t0814/items/c6ef7e3c668007f920a6
